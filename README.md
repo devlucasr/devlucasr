@@ -14,4 +14,4 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, e em busca do crescimento e oportunidades em minha carreira dev.
+Tenho 21 anos e sou apaixonado por tecnologia, estou em constante evolução das minhas habilidades na área de desenvolvimento web.
